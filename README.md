@@ -2,8 +2,8 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Clima 
-This is created under guidance of App Brewery course
-Check gif files for demonstration
+This is created under guidance of App Brewery course.
+Check gif files for demonstration.
 
 ## What you will See
 
